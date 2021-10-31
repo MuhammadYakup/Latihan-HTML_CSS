@@ -1,0 +1,22 @@
+body {
+	background: yellow;
+}
+.tulisan_kiri{
+	text-align: left;
+	color: blue;
+}
+ 
+.tulisan_kanan{
+	text-align: right;
+	color: red;
+}
+ 
+.tulisan_tengah{
+	text-align: center;
+	color: blue;
+}
+ 
+.tulisan_justify{
+	text-align: justify;
+	color: red;
+}
